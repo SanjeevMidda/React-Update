@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    font-weight: 300;
+    font-family: Helvetica, sans-serif;
+}
+
+.layout{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    padding: 20px;
+    border: 1px solid rgb(215, 215, 215);
+    background-color: white;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+}
